@@ -35,6 +35,4 @@ class GoogleAutomation {
         browser.pause(3000);
     }
 }   
-     
-
 export default new GoogleAutomation
